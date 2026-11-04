@@ -1,0 +1,5 @@
+Modèle,Précision,Rappel,F1 moyen,F1 écart-type
+Régression logistique,0.729,0.702,0.715,0.015
+Arbre de décision,0.708,0.707,0.705,0.021
+Random Forest,0.694,0.698,0.696,0.014
+Gradient Boosting,0.708,0.706,0.707,0.016

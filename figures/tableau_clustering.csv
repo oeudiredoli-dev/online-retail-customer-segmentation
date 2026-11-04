@@ -1,0 +1,7 @@
+Méthode,Nb clusters,Nb bruit,Silhouette,Davies-Bouldin,Calinski-Harabasz,Dunn,Stabilité (ARI)
+K-Means,4,0,0.338,1.009,3328.338,0.002,0.911
+Hiérarchique (Ward),4,0,0.28,1.099,2739.57,0.007,0.376
+Bisecting K-Means,4,0,0.282,1.175,3095.35,0.003,0.884
+DBSCAN,3,175,0.175,1.689,2077.576,0.069,0.97
+HDBSCAN,6,701,0.101,2.695,907.109,0.03,0.922
+Spectral,4,0,0.178,1.466,1633.913,0.003,0.921
