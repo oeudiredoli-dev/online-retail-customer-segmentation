@@ -1,4 +1,5 @@
 # Online Retail: customer segmentation and repurchase prediction
+by Samuel-William Mpiana and Olliesk Doli
 
 Course project for Applied Machine Learning (modules 3 to 5: feature selection, introduction to clustering, advanced clustering). It uses the [Online Retail dataset](https://archive.ics.uci.edu/dataset/352/online+retail) from UCI: 541,909 transaction lines from a UK online store, between 1 December 2010 and 9 December 2011.
 
