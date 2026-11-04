@@ -2,7 +2,7 @@
 
 Customer behavior analysis on the [Online Retail dataset (UCI)](https://archive.ics.uci.edu/dataset/352/online+retail), a UK online store with 541,909 transaction lines from 01/12/2010 to 09/12/2011.
 
-Course project for *Applied Machine Learning* (Modules 3, 4 and 5: feature selection, introduction to clustering, advanced clustering techniques).
+Course project: feature selection, introduction to clustering, advanced clustering techniques).
 
 ## Goals
 
